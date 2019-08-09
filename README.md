@@ -140,3 +140,6 @@ extension IndexedTableView {
     }
 }
 ```
+
+效果：![ResueDemo](media/ResueDemo.gif)
+
