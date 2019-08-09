@@ -11,8 +11,7 @@ import UIKit
 class ViewReusePool: NSObject {
     
     ///MARK: - Open func
-    
-    
+
     /// 从重用池取一个可重用的view
     ///
     /// - Returns: 取出的视图

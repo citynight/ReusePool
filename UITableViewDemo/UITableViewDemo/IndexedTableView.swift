@@ -88,6 +88,4 @@ extension IndexedTableView {
         containerView.frame = CGRect(x: self.frame.origin.x + self.frame.size.width - buttonWidth, y: self.frame.origin.y, width: buttonWidth, height: self.frame.origin.y)
         
     }
-    
-    
 }
